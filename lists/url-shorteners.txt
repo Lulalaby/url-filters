@@ -6,6 +6,7 @@ cutt.ly
 gg.gg
 goo.gl
 is.gd
+rebrand.ly
 shorturl.at
 shre.su
 tiny.cc
