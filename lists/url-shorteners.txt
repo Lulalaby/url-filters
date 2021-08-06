@@ -1,3 +1,4 @@
+bit-ly.ru
 bit.ly
 bitly.ws
 buff.ly
@@ -5,12 +6,18 @@ clck.ru
 ctgs.ga
 cutt.ly
 gg.gg
+goo-gl.ru
 goo.gl
+goo.su
 is.gd
+ow.ly
 rebrand.ly
 shorturl.at
 shre.su
 tiny.cc
 tiny.one
 tinyurl.com
+to.click
+u.to
 v.gd
+vk.cc
