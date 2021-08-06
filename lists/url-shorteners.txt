@@ -1,5 +1,6 @@
 bit.ly
 bitly.ws
+buff.ly
 clck.ru
 ctgs.ga
 cutt.ly
