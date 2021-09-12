@@ -360,7 +360,6 @@ adarbo2.bbmedia.cz
 adbard.net
 adbasket.net
 adblade.com
-adblade.com
 adblockanalytics.com
 adboost.de.vu
 adboost.net
@@ -375,7 +374,6 @@ adbureau.net
 adbutler.com
 adbuyer.com
 adbuyer3.lycos.com
-adcash.com
 adcash.com
 adcast.deviantart.com
 adcell.de
@@ -408,14 +406,12 @@ adexchangeprediction.com
 adexpose.com
 adext.inkclub.com
 adf.ly
-adf.ly
 adfac.net
 adflight.com
 adflow.co.uk
 adflow.org
 adflownetworks.com
 adfoc.us
-adforce.com
 adforce.com
 adforce.imgis.com
 adform.com
@@ -2057,7 +2053,6 @@ fascinatedfeather.com
 fashion4young.de
 fast-adv.it
 fastclick.com
-fastclick.com
 fastclick.com.edgesuite.net
 fastclick.net
 faultycanvas.com
@@ -2161,7 +2156,6 @@ globaltrak.net
 globe7.com
 globus-inter.com
 glossysense.com
-gmads.net
 gmads.net
 go-clicks.de
 go-rank.de
@@ -2457,7 +2451,6 @@ link-booster.de
 link4ads.com
 link4link.com
 linkbucks.com
-linkbucks.com
 linkbuddies.com
 linkexchange.com
 linkprice.com
@@ -2710,7 +2703,6 @@ nexage.com
 ng.mybc.com
 nitratory.com
 nitroclicks.com
-nitroclicks.com
 nmxads.narrowline.com
 noiselessplough.com
 nomadaads.com
@@ -2841,7 +2833,6 @@ partnerad.l.google.com
 partners.priceline.com
 passeresfm.com
 passion-4.net
-pay-ads.com
 pay-ads.com
 paycounter.com
 paypopup.com
@@ -3726,7 +3717,6 @@ xiti.com
 xovq5nemr.com
 xplusone.com
 xponsor.com
-xponsor.com
 xq1.net
 xtendmedia.com
 xxxmyself.com
@@ -3768,7 +3758,6 @@ zenoviaexchange.com
 zenzuu.com
 zesuperoffre.fr
 zeus.developershed.com
-zeusclicks.com
 zeusclicks.com
 zipansion.com
 zlp6s.pw
